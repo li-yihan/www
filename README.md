@@ -1,2 +1,2 @@
 # www
-website of Yihan from Beijing
+website of Yihan
